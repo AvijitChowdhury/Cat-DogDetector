@@ -29,6 +29,14 @@ Video:
 </video>
 <a href="https://cat-dogimagepredictoravijit.herokuapp.com/">Livelink</a>
 <a href="#">Custom Dataset</a>
+<h2>For Running This Project in your computer,please follow this steps</h2>
+<ol>
+<li>cd main</li>
+<li>conda create -p venv python -y</li>
+<li>conda activate COPY_THE_VENV_PATH</li>
+<li>pip install -r requirements.txt</li>
+<li>streamlit run app.py</li>
+</ol>
 </body>
 
 </html>
