@@ -22,9 +22,9 @@
 <li>Splitting Data Into Training and Test Set</li>
 <li>Visulazing Dataset and Determining Training Loss</li>
 </ol>
-<img src="./files/smsSpamImage.png" width="700" height="400">
+<img src="projectOverview/demo.png" width="700" height="400">
 <video width="320" height="240" controls src="./files/smsSpamDetector.mp4">
-  <source src="./files/smsSpamDetector.mp4" type="video/mp4">
+  <source src="projectOverview/demo.mp4" type="video/mp4">
 Video: 
 </video>
 <a href="https://cat-dogimagepredictoravijit.herokuapp.com/">Livelink</a>
