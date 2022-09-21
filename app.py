@@ -48,7 +48,7 @@ model.add(BatchNormalization())
 model.add(Dropout(0.5))
 model.add(Dense(2, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
-model.load_weights('static/model.h5')
+model.load_weights('model.h5')
 
 
 
