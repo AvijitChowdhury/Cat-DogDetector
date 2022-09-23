@@ -5,7 +5,7 @@ WORKDIR /app
 COPY requirements.txt requirements.txt
 
 RUN pip install -r requirements.txt
-
+RUN apt install -y libgl1-mesa-glx
 COPY . .
 
 
